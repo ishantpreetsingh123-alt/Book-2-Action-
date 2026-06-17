@@ -1,0 +1,6 @@
+{
+  "name": "Book2Action",
+  "description": "Transform any nonfiction book into actionable insights, visual flowcharts, key concepts, and a personalized 30-day implementation roadmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
